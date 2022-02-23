@@ -10,9 +10,8 @@ Z-Layout Explained
 
 Here is a repository with an example (does not show correct screenshots) - Click Here
 
-Bootstrap Getting Started - Click Here 
-
-Bootstrap Grid System - Click Here 
+Bootstrap Getting Started 
+Bootstrap Grid System 
 
 Going deep with Bootstrap (not needed for assignment but you may need more help) - 3 Hour Bootstrap Course - Click Here
 
@@ -22,4 +21,5 @@ Submit a link to your GitHub repository branch for this assignment, it should ha
 ## Screenshot of Running Program
 
 ![Home Page](screenshots/Home.png)
+
 ![About Page](screenshots/about.png)
