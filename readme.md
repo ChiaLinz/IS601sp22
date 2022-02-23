@@ -8,12 +8,12 @@ F-Layout Explained
 
 Z-Layout Explained
 
-Here is a repository with an example (does not show correct screenshots) - Click Here
+Here is a repository with an example (does not show correct screenshots) 
 
 Bootstrap Getting Started 
 Bootstrap Grid System 
 
-Going deep with Bootstrap (not needed for assignment but you may need more help) - 3 Hour Bootstrap Course - Click Here
+Going deep with Bootstrap (not needed for assignment but you may need more help) - 3 Hour Bootstrap Course 
 
 Submit a link to your GitHub repository branch for this assignment, it should have a screenshot of your index page and about page respectively.  
 
