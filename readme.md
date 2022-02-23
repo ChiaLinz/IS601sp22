@@ -20,6 +20,6 @@ Submit a link to your GitHub repository branch for this assignment, it should ha
 
 ## Screenshot of Running Program
 
-![Home Page](screenshots/Home.png)
+![Home Page](screenshots/Home.PNG)
 
-![About Page](screenshots/about.png)
+![About Page](screenshots/about.PNG)
