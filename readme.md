@@ -22,4 +22,5 @@ Submit a link to your GitHub repository branch for this assignment, it should ha
 
 ![Home Page](screenshots/Home.PNG)
 
-![About Page](screenshots/about.PNG)
+![About Page](screenshots/About.PNG)
+
